@@ -17,9 +17,8 @@ class CreateEmployeesTable extends Migration
             $table->bigIncrements('id');
             $table->string('name');
             $table->date('birthdate');
-            $table->decimal('salary');
             $table->smallInteger('sex');
-            $table->char('job',50);
+            $table->string('phonenumber');
             $table->softDeletes();
             $table->timestamps();
         });

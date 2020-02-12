@@ -42,7 +42,6 @@ class WordOfTheDay extends Command
 
             Mail::raw('Hi everyone', function ($message) {
                 $message->from('longquanhi95@gmail.com', 'Laravel-v8');
-
                 $message->to('longdam95@gmail.com');
             });
     }

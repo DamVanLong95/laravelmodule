@@ -25,15 +25,12 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-
         $schedule->call(function () {
-            Mail::raw('Hi everyone', function ($message) {
+            Mail::raw('Hi long', function ($message) {
                 $message->from('longquanhi95@gmail.com', 'Laravel');
                 $message->to('longdam95@gmail.com');
             });
-        })->daily();
-        $schedule->command('word:day')->everyMinute();
-
+        })->everyMinute();
     }
 
     /**

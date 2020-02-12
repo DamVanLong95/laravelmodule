@@ -15,7 +15,7 @@ class AddImageToEmployees extends Migration
     {
         Schema::table('employees', function (Blueprint $table) {
             //
-             $table->string('image')->after('job');
+             $table->string('image')->after('name');
         });
     }
 

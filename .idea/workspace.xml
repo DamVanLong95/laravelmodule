@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c200edc5-cbed-4711-aaa1-a71a0da87ceb" name="Default Changelist" comment="" />
+    <list default="true" id="c200edc5-cbed-4711-aaa1-a71a0da87ceb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Commands/WordOfTheDay.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Commands/WordOfTheDay.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_01_30_125126_create_employees_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_01_30_125126_create_employees_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_02_02_101202_add_image_to_employees.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_02_02_101202_add_image_to_employees.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +151,9 @@
       <updated>1581304372276</updated>
       <workItem from="1581304374923" duration="21628000" />
       <workItem from="1581340787833" duration="8297000" />
-      <workItem from="1581385426998" duration="3928000" />
+      <workItem from="1581385426998" duration="16704000" />
+      <workItem from="1581467205368" duration="2802000" />
+      <workItem from="1581471928857" duration="3481000" />
     </task>
     <servers />
   </component>
@@ -152,23 +161,31 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="489" y="88" width="645" height="688" key="#phpunit.xml" timestamp="1581475910955">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="489" y="88" width="645" height="688" key="#phpunit.xml/74.0.1462.864@74.0.1462.864" timestamp="1581475910955" />
+    <state x="430" y="27" key="CommitChangelistDialog2" timestamp="1581467880006">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="430" y="27" key="CommitChangelistDialog2/74.0.1462.864@74.0.1462.864" timestamp="1581467880006" />
     <state x="316" y="78" key="SettingsEditor" timestamp="1581348410470">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="316" y="78" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1581348410470" />
-    <state x="514" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1581385530915">
+    <state x="514" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1581471929172">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="514" y="261" key="com.intellij.ide.util.TipDialog/74.0.1462.864/1920.0.1920.1040@74.0.1462.864" timestamp="1581304383300" />
-    <state x="514" y="261" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1581385530915" />
+    <state x="514" y="261" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1581471929172" />
     <state x="462" y="197" key="run.anything.popup" timestamp="1581330910153">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="462" y="197" key="run.anything.popup/74.0.1462.864@74.0.1462.864" timestamp="1581330910153" />
-    <state x="468" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581349234073">
+    <state x="468" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581467363190">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="468" y="185" width="672" height="678" key="search.everywhere.popup/74.0.1462.864/1920.0.1920.1040@74.0.1462.864" timestamp="1581308206507" />
-    <state x="468" y="185" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1581349234073" />
+    <state x="468" y="185" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1581467363190" />
   </component>
 </project>
